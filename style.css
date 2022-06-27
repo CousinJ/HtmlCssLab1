@@ -1,0 +1,56 @@
+h1 {
+   text-align: center; 
+   background-color: rgb(211, 143, 88);
+   padding: 20px;
+   
+}
+.topnav {
+    background-color: beige;
+    
+    text-align: center;
+    
+}
+.topnav a {
+    color: black;
+    font-size: 20px;
+    padding: 15px 15px;
+}
+body {
+    background-color: black;
+}
+
+p {
+    color:azure;
+    text-align: center;
+    font-size:large
+}
+
+img{
+    border-style:groove; 
+    
+    
+}
+.testimonial {
+    background-color:brown;
+    text-align: center;
+}
+
+.testimonial a {
+    color:#062c2c;
+    font-size:xx-large;
+    padding: 150px 150px;
+}
+
+.testpics img {
+    padding: 100px 96px;
+    max-width: 300px;
+    max-height: 300px;
+    
+    
+}
+h2 {
+    background-color: rgb(228, 214, 214);
+    text-align: center;
+    font-size: xx-large;
+    font-style: oblique;
+}
